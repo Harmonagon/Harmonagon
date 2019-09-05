@@ -29,10 +29,6 @@ If you are a musician or programmer interested in contributing to the Harmonagon
 *	Invert or Change Register
 *	Transpose Chords, Scales, and Sequences
 *	Transform Chords, Scales, and Sequences
-  **	Prime
-  **	Inversion
-  **	Retrograde
-  **	Retrograde Inversion
 *	Change Scale Mode
 *	Change Chord Root or Use Alternate Bass
 *	Change Instrument Sound
