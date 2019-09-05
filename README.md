@@ -1,14 +1,48 @@
 # Harmonagon
-A Free Music Education App
 
-The Harmonagon™ trade or brand name is an amalgam of the words harmony and polygon.
+The Harmonagon is an open-source music education app designed as a free teaching, learning, and practice tool for music students and musicians. No experience or musical knowledge is required; the Harmonagon may be used by anyone, including beginners and those without an instrument. For more information and demo visit www.harmonagon.com or watch this three-minute introductory video.
+ 
+License
 
-The app is primarily designed as a learning and practice tool for music students and musicians, but anyone can use it, including beginners and those without an instrument.
+This project is licensed under the MIT License - see LICENSE.md for details.
 
-The Harmonagon can currently identify and play more the 2,500 chords and scales.
+Acknowledgments/Attributions
 
-For more information, check out the FAQ at www.harmonagon.com and watch the 3-minute promotional video.
+The Harmonagon was created by musician Mitch Kahle and programmed by Holly Huber. Watch this three-minute video for additional background. The Harmonagon (in its current form) was built using JavaScript, HTML Canvas, CSS, MIDI.js (sound), vexflow (notation), and other libraries.
 
-The Harmonagon is a work in progress and user feedback is greatly appreciated.
+Refactoring
 
-Follow the Harmonagon on Facebook and Twitter and subscribe to our YouTube channel.
+The Harmonagon needs refactoring and significant updating to include advanced features and new or improved capabilities. 
+
+Contributors
+
+If you are a musician or programmer interested in contributing to the Harmonagon, please email mitch@harmonagon.com. 
+
+Planned Updates
+
+•	Improved Support for Tablets and Smartphones 
+•	Cross-Referencing of Chords and Scales
+•	Change Key or Tonic
+•	Transpose for Instruments (Bb, Eb, etc.)
+•	Invert or Change Register
+•	Transpose Chords, Scales, and Sequences
+•	Transform Chords, Scales, and Sequences
+  o	Prime
+  o	Inversion
+  o	Retrograde
+  o	Retrograde Inversion
+•	Change Scale Mode
+•	Change Chord Root or Use Alternate Bass
+•	Change Instrument Sound
+•	Make and Save Sequences and Chord Progressions
+•	Rhythm Mode
+•	Tempo Change 
+•	Metronome and Tuner
+•	Learning Levels for Preschool and Elementary Students
+•	Additional Instructional Videos
+•	and More (Ideas and Suggestions Welcome)
+
+The Harmonagon is unique as a music education tool, because the app can be used with any instrument and lacks any genre bias. The Harmonagon can be used by anyone, regardless of instrument, music style preference or ability. Watch the Using the Harmonagon for a detailed overview and demonstration of the current app.
+
+***
+
