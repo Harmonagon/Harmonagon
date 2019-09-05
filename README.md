@@ -34,7 +34,7 @@ If you are a musician or programmer interested in collborating with or contribut
 *	Change Instrument Sound
 *	Make and Save Sequences and Chord Progressions
 *	Rhythm Mode
-*	Tempo Change 
+*	Tempo Changes 
 *	Metronome and Tuner
 *	Learning Levels for Preschool and Elementary Students
 *	Additional Instructional Videos
