@@ -8,7 +8,7 @@ This project is licensed under the MIT License - see [LICENSE.md](https://github
 
 ### Acknowledgments/Attributions
 
-The Harmonagon was created by musician Mitch Kahle and programmed by [Holly Huber](https://github.com/HollyJHuber). Watch this three-minute [video](https://www.youtube.com/watch?v=ofEOS-WSSP0) for additional project background. The Harmonagon was built (in its current form) using JavaScript, HTML Canvas, CSS, [MIDI.js](https://github.com/mudcube/MIDI.js) (sound), [vexflow](https://github.com/0xfe/vexflow) (notation), and other libraries.
+The Harmonagon was created by musician [Mitch Kahle](https://www.youtube.com/channel/UC_f3nR0uGJ1VuBx9SgFG3zQ/videos) and programmer [Holly Huber](https://github.com/HollyJHuber). Watch this three-minute [video](https://www.youtube.com/watch?v=ofEOS-WSSP0) for additional project background. The Harmonagon was built (in its current form) using JavaScript, HTML Canvas, CSS, [MIDI.js](https://github.com/mudcube/MIDI.js) (sound), [vexflow](https://github.com/0xfe/vexflow) (notation), and other libraries.
 
 ### Refactoring
 
