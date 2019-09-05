@@ -14,11 +14,11 @@ The Harmonagon was created by musician Mitch Kahle and programmed by [Holly Hube
 
 The Harmonagon needs refactoring and significant updating to include advanced features and new or improved capabilities. 
 
-### Contributors
+### Collaborators/Contributors
 
 The Harmonagon is unique as a music education tool because the free app can be used with any instrument and lacks any genre bias. The Harmonagon can be used by anyone, regardless of instrument, music style preference or ability. Watch [Using the Harmonagon](https://www.youtube.com/watch?v=ob1CdGbHpeA) for a detailed overview and demonstration of the current app.
 
-If you are a musician or programmer interested in contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com).
+If you are a musician or programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com).
 
 ### Planned Updates
 
