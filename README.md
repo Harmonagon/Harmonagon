@@ -4,7 +4,7 @@ The [Harmonagon](http://www.harmonagon.com/) is an open-source music education a
  
 ### License
 
-This project is licensed under the MIT License - see LICENSE.md for details.
+This project is licensed under the MIT License - see [LICENSE.md](https://github.com/Harmonagon/Harmonagon/tree/master/LICENSE.md) for details.
 
 ### Acknowledgments/Attributions
 
