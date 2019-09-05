@@ -1,6 +1,6 @@
 # Harmonagon
 
-The [Harmonagon](http://www.harmonagon.com/) is an open-source music education app designed as a free teaching, learning, and practice tool for music students and musicians. No experience or musical knowledge is required; the Harmonagon may be used by anyone, including beginners and those without an instrument. For more information and demo visit www.harmonagon.com or watch this three-minute introductory [video](https://www.youtube.com/watch?time_continue=1&v=rWmZq-XwtO8).
+The [Harmonagon](http://www.harmonagon.com/) is an open-source music education app designed as a free teaching, learning, and practice tool for music students, educators, and musicians. No experience or musical knowledge is required; the Harmonagon may be used by anyone, including beginners and those without an instrument. For more information and demo visit www.harmonagon.com or watch this three-minute introductory [video](https://www.youtube.com/watch?time_continue=1&v=rWmZq-XwtO8).
  
 ### License
 
