@@ -26,7 +26,7 @@ If you are a musician or programmer interested in collborating with or contribut
 *	Cross-Referencing of Chords and Scales
 *	Change Key or Tonic
 *	Transpose for Instruments (Bb, Eb, etc.)
-*	Invert or Change Register
+*	Invert or Change Register (Octave)
 *	Transpose Chords, Scales, and Sequences
 *	Transform Chords, Scales, and Sequences
 *	Change Scale Mode
@@ -38,4 +38,4 @@ If you are a musician or programmer interested in collborating with or contribut
 *	Metronome and Tuner
 *	Learning Levels for Preschool and Elementary Students
 *	Additional Instructional Videos
-*	and More (Ideas and Suggestions Welcome)
+*	and More (TBD)
