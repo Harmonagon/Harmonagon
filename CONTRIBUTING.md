@@ -1,4 +1,4 @@
-## Collaborators/Contributors
+## Collaborators and Contributors
 
 If you are a musician or programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com).
 
