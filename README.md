@@ -22,7 +22,7 @@ If you are a musician or programmer interested in collborating with or contribut
 
 ### Planned Updates
 
- *	Improved Support for Tablets and Smartphones 
+ * Refactoring for Improved Operability and Support for Tablets and Smartphones 
  *	Cross-Referencing of Chords and Scales
  *	Change Key or Tonic
  *	Transpose for Instruments (Bb, Eb, etc.)
