@@ -8,20 +8,25 @@ The [Harmonagon](http://www.harmonagon.com/) is an open-source music education a
 
 ### Planned Updates
 
-*	Improved Support for Tablets and Smartphones 
-*	Cross-Referencing of Chords and Scales
-*	Change Key or Tonic
-*	Transpose for Instruments (Bb, Eb, etc.)
-*	Invert or Change Register
-*	Transpose Chords, Scales, and Sequences
-*	Transform Chords, Scales, and Sequences
-*	Change Scale Mode
-*	Change Chord Root or Use Alternate Bass
-*	Change Instrument Sound
-*	Make and Save Sequences and Chord Progressions
-*	Rhythm Mode
-*	Click and Tempo Changes 
-*	Metronome and Tuner
-*	Learning Levels for Preschool and Elementary Students
-*	Additional Instructional Videos
-*	and More [Ideas and Suggestions Welcome](mailto:mitch@harmonagon.com)
+ * Refactoring for Improved Operability and Support for Tablets and Smartphones 
+ * Cross-Referencing of Chords and Scales
+ *	Change Key or Tonic
+ *	Transpose for Instruments (Bb, Eb, etc.)
+ *	Invert or Change Register (Octave)
+ *	Transpose Chords, Scales, Sequences
+ *	Transform (Prime, Retrograde, Inversion, Retrograge Inversion)
+ *	Change Scale Mode
+ * Harmonize Scale
+ *	Change Chord Root
+ * Use Alternate Bass
+ *	Change Instrument Sound
+ *	Make and Save Sequences and Chord Progressions
+ *	Rhythm Mode
+ * Change Clef
+ * Change Tempo (BPM)
+ * Loop Variations
+ * Click Track
+ *	Metronome and Tuner
+ *	Learning Levels for Preschool and Elementary Students
+ *	New Instructional Videos
+ *	and More (TBD)
