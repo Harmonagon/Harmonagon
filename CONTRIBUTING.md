@@ -4,7 +4,7 @@ If you are a musician or programmer interested in collborating with or contribut
 
 ### Refactoring
 
-The [Harmonagon](http://www.harmonagon.com/) is an open-source music education app that is a work in progress; the app needs refactoring and significant updating to add new features and improve capabilities. See "planned updates" below.
+The [Harmonagon](http://www.harmonagon.com/) is an open-source music education app that is a work in progress; the app needs refactoring and significant updating to add new features and improve capabilities.
 
 ### Planned Updates
 
