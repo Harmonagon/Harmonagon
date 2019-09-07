@@ -37,6 +37,7 @@ If you are a musician or programmer interested in collborating with or contribut
  *	Make and Save Sequences and Chord Progressions
  *	Rhythm Mode
  * Change Clef
+ * Change Time Signature
  * Change Tempo (BPM)
  * Loop Variations
  * Click Track
