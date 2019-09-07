@@ -23,6 +23,7 @@ The [Harmonagon](http://www.harmonagon.com/) is an open-source music education a
  *	Make and Save Sequences and Chord Progressions
  *	Rhythm Mode
  * Change Clef
+ * Change Time Signature
  * Change Tempo (BPM)
  * Loop Variations
  * Click Track
