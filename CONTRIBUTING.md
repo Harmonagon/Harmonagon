@@ -1,6 +1,6 @@
 ## Collaborators and Contributors
 
-If you are a programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No musical knowledge is required for programming, as music sequences are easily converted to binary and milliseconds. Programmers with a basic knowledge of geometry and trigonometry (unit circle) are preferred.
+If you are a programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No musical knowledge is required for programming, as music sequences are easily converted to binary and milliseconds. Programmers will need a basic understanding of geometry (transformations) and trigonometry (unit circle, sin, cos, tan, and radians).
 
 ### Refactoring
 
