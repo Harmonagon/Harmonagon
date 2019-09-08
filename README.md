@@ -18,7 +18,7 @@ The Harmonagon needs refactoring and significant updating to add new features an
 
 The Harmonagon is unique as a music education tool because the free app can be used with any instrument and lacks any genre bias. The Harmonagon can be used by anyone, regardless of instrument, music style preference or ability. Watch [Using the Harmonagon](https://www.youtube.com/watch?v=ob1CdGbHpeA) for a detailed overview and demonstration of the current app.
 
-If you are a programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No musical knowledge is required for programming, as music sequences are easily converted to binary and milliseconds. Programmers with a basic knowledge of geometry and trigonometry (unit circle) are preferred.
+If you are a programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No musical knowledge is required for programming, as music sequences are easily converted to binary and milliseconds. Programmers will need a basic understanding of geometry (transformations) and trigonometry (unit circle, sin, cos, tan, and radians).
 
 ### Planned Updates
 
