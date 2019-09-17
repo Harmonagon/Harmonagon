@@ -29,5 +29,5 @@ The [Harmonagon](http://www.harmonagon.com/) is an open-source music education a
  * Click Track
  *	Metronome and Tuner
  *	Learning Levels for Preschool and Elementary Students
- *	New Instructional Videos
+ *	New and Updated Instructional Videos and Quizzes
  *	and More (TBD)
