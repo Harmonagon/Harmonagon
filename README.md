@@ -43,5 +43,5 @@ If you are a programmer interested in collborating with or contributing to the H
  * Click Track
  *	Metronome and Tuner
  *	Learning Levels for Preschool and Elementary Students
- *	New Instructional Videos
+ *	New and Updated Instructional Videos and Quizzes
  *	and More (TBD)
