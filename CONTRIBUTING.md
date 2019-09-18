@@ -14,7 +14,11 @@ The [Harmonagon](http://www.harmonagon.com/) is an open-source music education a
  *	Transpose for Instruments (Bb, Eb, etc.)
  *	Invert or Change Register (Octave)
  *	Transpose Chords, Scales, Sequences
- *	Transform (Prime, Retrograde, Inversion, Retrograge Inversion)
+ *	Transform Chords, Scales, Sequences 
+    *	Prime
+    *	Retrograde
+    *	Inversion
+    *	Retrograde Inversion
  *	Change Scale Mode
  * Harmonize Scale
  *	Change Chord Root
