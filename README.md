@@ -28,7 +28,11 @@ If you are a programmer interested in collborating with or contributing to the H
  *	Transpose for Instruments (Bb, Eb, etc.)
  *	Invert or Change Register (Octave)
  *	Transpose Chords, Scales, Sequences
- *	Transform (Prime, Retrograde, Inversion, Retrograge Inversion)
+ *	Transform Chords, Scales, Sequences 
+   • Prime
+   • Retrograde
+   • Inversion
+   • Retrograge Inversion
  *	Change Scale Mode
  * Harmonize Scale
  *	Change Chord Root
