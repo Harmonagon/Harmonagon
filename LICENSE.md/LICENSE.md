@@ -1,4 +1,4 @@
-Harmonagon - a free music education app.
+Harmonagon(TM) - a free music education app.
 Copyright (c) 2019 Radical LLC
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
