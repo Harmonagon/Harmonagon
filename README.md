@@ -32,7 +32,7 @@ If you are a programmer interested in collborating with or contributing to the H
     *	Prime
     *	Retrograde
     *	Inversion
-    *	Retrograge Inversion
+    *	Retrograde Inversion
  *	Change Scale Mode
  * Harmonize Scale
  *	Change Chord Root
