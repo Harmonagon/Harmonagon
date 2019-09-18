@@ -34,7 +34,6 @@ If you are a programmer interested in collborating with or contributing to the H
  *	Change Chord Root
  * Use Alternate Bass
  *	Change Instrument Sound
- *	Make and Save Sequences and Chord Progressions
  *	Rhythm Mode
  * Change Clef
  * Change Time Signature
@@ -42,6 +41,8 @@ If you are a programmer interested in collborating with or contributing to the H
  * Loop Variations
  * Click Track
  *	Metronome and Tuner
+ *	Make and Save Sequences and Chord Progressions
+ * Composition Tools
  *	Learning Levels for Preschool and Elementary Students
  *	New and Updated Instructional Videos and Quizzes
  *	and More (TBD)
