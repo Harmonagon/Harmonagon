@@ -29,10 +29,10 @@ If you are a programmer interested in collborating with or contributing to the H
  *	Invert or Change Register (Octave)
  *	Transpose Chords, Scales, Sequences
  *	Transform Chords, Scales, Sequences 
-   • Prime
-   • Retrograde
-   • Inversion
-   • Retrograge Inversion
+    *	Prime
+    *	Retrograde
+    *	Inversion
+    *	Retrograge Inversion
  *	Change Scale Mode
  * Harmonize Scale
  *	Change Chord Root
