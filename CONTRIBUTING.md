@@ -1,10 +1,10 @@
 ## Collaborators and Contributors
 
-If you are a programmer interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No musical knowledge is required for programming, as music sequences are easily converted to binary and milliseconds. Programmers will need a basic understanding of geometry (transformations) and trigonometry (unit circle, sin, cos, tan, and radians).
+If you are a programmer, developer, designer, educator, or musician interested in collborating with or contributing to the Harmonagon, please email the [project maintainier](mailto:mitch@harmonagon.com). No prior musical knowledge is required, as music is easily converted to binary and milliseconds. Programmers will need a basic understanding of geometry (incl. transformations) and trigonometry (unit circle, sin, cos, tan, radians, etc.).
 
 ### Refactoring
 
-The [Harmonagon](http://www.harmonagon.com/) is an open-source music education app that is a work in progress; the app needs refactoring and significant updating to add new features and improve capabilities.
+The [Harmonagon](http://www.harmonagon.com/) is a free music education app that is a work in progress; the app needs refactoring (full stack) and significant updating to add new features and improve capabilities.
 
 ### Planned Updates
 
