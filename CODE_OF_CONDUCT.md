@@ -2,7 +2,7 @@
 
 ### 1. Purpose
 
-The primary goal of the Harmonagon project is to create, develop, and distribute for free the highest quality open-source music education app possible. The Harmonagon project is created to be inclusive to the largest number of users, contributors, and collaborators, with the most varied and diverse backgrounds possible, without regard to any particular instrument or set of instruments, music genre or style preference.
+The primary goal of the Harmonagon is to create, develop, and distribute for free the highest quality music education app possible. The Harmonagon is created to be inclusive to the largest number of users, contributors, and collaborators, with the most varied and diverse backgrounds possible, without regard to any particular instrument or set of instruments, music genre or style preference.
 
 As an open-source community, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
