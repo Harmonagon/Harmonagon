@@ -31,8 +31,10 @@ The [Harmonagon](http://www.harmonagon.com/) is a free music education app that 
  * Loop Variations
  * Click Track
  *	Metronome and Tuner
- *	Make and Save Sequences and Chord Progressions
+ *	Create and Save Patterns, Sequences, and Chord Progressions
  * Composition Tools
  *	Learning Levels for Preschool and Elementary Students
  *	New and Updated Instructional Videos and Quizzes
  *	and More (TBD)
+ 
+ (updates not necessarily in any particaular order)
