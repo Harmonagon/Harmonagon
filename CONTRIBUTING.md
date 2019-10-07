@@ -20,7 +20,7 @@ The [Harmonagon](http://www.harmonagon.com/) is a free music education app that 
     *	Inversion
     *	Retrograde Inversion
  *	Change Scale Mode
- * Outmodes
+ * Scale Outmodes
  * Harmonize Scale
  *	Change Chord Root
  * Use Alternate Bass
