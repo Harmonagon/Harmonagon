@@ -34,7 +34,7 @@ If you are a programmer, developer, designer, musician, or educator interested i
     *	Inversion
     *	Retrograde Inversion
  *	Change Scale Mode
- * Outmodes
+ * Scale Outmodes
  * Harmonize Scale
  *	Change Chord Root
  * Use Alternate Bass
